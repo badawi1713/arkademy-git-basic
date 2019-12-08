@@ -1,3 +1,4 @@
+<!-- Dzaky Badawi - GIT Basic for Arkademy assignment -->
 "# arkademy-git-basic" 
 Berikut daftar command yang digunakan pada tugas git basic:
 
